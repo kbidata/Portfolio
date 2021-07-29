@@ -1,0 +1,10 @@
+{
+    "name": "logo_resize_2",
+    "source": ["styles/logo_resize.css"],
+    "style": [
+    ],
+    "folderName": "logo_resize_2",
+    "lastUpdate": "2020-11-15T14:29:39.564Z",
+    "isEnabled": true,
+    "version": "0"
+}
